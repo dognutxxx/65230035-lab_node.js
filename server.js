@@ -52,7 +52,7 @@ const products = [
     category: "Top",
     price: 12900,
     cover:
-      "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.redarmyfc.com%2Fimages%2Fcontent%2Frafc_Wed53329_20190731_33446.jpg&imgrefurl=https%3A%2F%2Fwww.redarmyfc.com%2Fcontent.php%3Fid%3D4745&tbnid=zCHuNMiIzBMnjM&vet=12ahUKEwi3g5ObzbL9AhVpodgFHRy5D8QQMygCegUIARC3AQ..i&docid=uv_3UcpBFJKSfM&w=736&h=476&q=%E0%B8%95%E0%B8%B1%E0%B9%8B%E0%B8%A7%E0%B9%81%E0%B8%A1%E0%B8%99%E0%B8%A2%E0%B8%B9&ved=2ahUKEwi3g5ObzbL9AhVpodgFHRy5D8QQMygCegUIARC3AQ",
+      "https://siamblockchain.com/wp-content/uploads/2021/10/cryptopunk-500-million-usd.png",
       
   },
 ];
