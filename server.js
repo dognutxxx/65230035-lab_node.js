@@ -75,5 +75,5 @@ app.get("/products/:id", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log("Application is running on port 9000");
+  console.log("Application is running on port 9000 ");
 });
